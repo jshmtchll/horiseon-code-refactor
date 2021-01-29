@@ -1,4 +1,4 @@
-# Code Refactor of Horiseon Site
+# Code Refactor of Horiseon Site #
 
 ![screenshot of site](Develop\assets\images\fullpage-screenshot-resize.jpg?raw=true)
 
