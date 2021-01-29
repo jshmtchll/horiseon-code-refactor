@@ -1,6 +1,6 @@
 # Code Refactor of Horiseon Site
 
-<img src="develop/assets/images/fullpage-screenshot-resize.jpg" alt="screenshot of page" />
+![screenshot of site](Develop\assets\images\fullpage-screenshot-resize.jpg?raw=true)
 
 ### **DESCRIPTION:** Refactoring of the Horiseon homepage to follow semantic HTML formatting, and adding in alt tags to describe images for screen readers. ###
 
